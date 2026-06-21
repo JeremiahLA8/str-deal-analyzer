@@ -1,0 +1,14 @@
+# Your real keys + template path — never commit
+config.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated workbooks
+*COC Analysis.xlsx
+
+# OS
+.DS_Store

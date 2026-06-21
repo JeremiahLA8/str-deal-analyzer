@@ -1,0 +1,6 @@
+# STR Deal Analyzer — runtime dependencies.
+# The compute engine (fill_deal_analyzer / deal_scenarios / deal_probabilistic) needs only this:
+openpyxl>=3.1
+
+# Live data pulls (airroi_lookup, listing_hasdata) use the Python standard library (urllib) —
+# no extra packages. They just need an API key in config.py or the environment.

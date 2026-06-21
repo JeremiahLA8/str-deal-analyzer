@@ -1,0 +1,18 @@
+{
+  "address": "3880 Wyllie Rd Unit 8C, Princeville, HI 96722",
+  "listing_link": "https://www.redfin.com/HI/Princeville/3880-Wyllie-Rd-96722/unit-8C/home/79181316",
+  "source_note": "AirROI comps (8 active 3BR): median TTM rev $137,467 incl. cleaning, ADR $569, calendar-occ 63% (adj-occ 77%). Base = ADR $540 / 57% calendar-occ -> ~$131k gross, ~5% condo haircut (townhome, shared pool, no private hot tub). Revenue definition INCLUDES cleaning fees.",
+  "market": "Princeville, HI (North Shore, Kauai)",
+  "property_type": "Condo / Townhome (Puamana)",
+  "beds": 3, "baths": 2, "sqft": 1532, "year_built": 1979,
+  "lot_size": "Condo (no separate lot)",
+  "amenities": "Community pool, 3 lanais; next to Westin, walk to Anini Beach",
+  "notes": "Puamana at Princeville townhome, MLS 628240. Remodeled. VDA zone = legal STR. Last sold $455,500 (Oct 2019). List $970,000. HOA covers water/sewer/trash/cable/internet/pool. No private hot tub.",
+  "purchase_price": 970000, "arv": 970000,
+  "permit_market": "kauai-hi",
+  "rehab": 0, "furn_per_sqft": 30,
+  "adr": 540, "occupancy": 0.57,
+  "turnovers_mo": 5,
+  "property_tax": 10961, "insurance": 2000, "hoa_annual": 18600,
+  "utilities_mo": 150, "internet_mo": 0, "landscaping_mo": 0, "spa_mo": 0
+}
